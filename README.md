@@ -1,0 +1,2 @@
+# baykus
+ilk github deneyimi 
